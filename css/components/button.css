@@ -1,0 +1,10 @@
+
+
+.button-magenta {
+  background-color: magenta;
+  padding: 15px 20px;
+  font-weight: bold;
+  border-radius: 4px;
+  color: pink;
+  font-family: Roboto, sans-serif;
+}
